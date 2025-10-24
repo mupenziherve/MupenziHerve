@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on ...  open-source projects, web apps, and AI-driven tools.          
 - 🤔 I’m looking for help with ... performance optimization and DevOps workflows.
 - 💬 Ask me about ...full stack development, REST APIs, database design, or JavaScript frameworks.
-- 📫 How to reach me: ...mupenziherve04@gmail.com.
+- 📫 How to reach me: ... mupenziherve04@gmail.com.
 - ⚡ Fun fact: ...  I enjoy solving real-world problems through code and clean UI design.                                 
 
 
